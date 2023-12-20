@@ -1,1 +1,2 @@
 # nginxwsgi
+master bölümünde
